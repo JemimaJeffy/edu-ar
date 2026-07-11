@@ -1,4 +1,4 @@
-# EduAR — Educational AR Explorer
+# EduAR — AI-Driven Augmented Reality System For Spatially Anchored Diagram Learning
 
 EduAR is a single-page, mobile-first web app that lets students explore 3D educational models — organs, cells, plants, minerals, planets, and more — in augmented reality. Point your camera at a real surface, place a labeled 3D model on it, and walk around it as if it were sitting on your desk. Built entirely as one `index.html` file with no backend or build step required.
 
