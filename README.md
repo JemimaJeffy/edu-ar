@@ -2,9 +2,9 @@
 
 EduAR is a single-page, mobile-first web app that lets students explore 3D educational models — organs, cells, plants, minerals, planets, and more — in augmented reality. Point your camera at a real surface, place a labeled 3D model on it, and walk around it as if it were sitting on your desk. Built entirely as one `index.html` file with no backend or build step required.
 
-<img width="249" height="332" alt="Screenshot 2026-07-11 172958" src="https://github.com/user-attachments/assets/15b22b8d-185c-4a51-b743-2f24e18bc305" />
+<img width="320" height="420" alt="Screenshot 2026-07-11 172958" src="https://github.com/user-attachments/assets/15b22b8d-185c-4a51-b743-2f24e18bc305" />
 <img width="320" height="420" alt="Screenshot 2026-07-11 171043" src="https://github.com/user-attachments/assets/645896aa-2e39-4cc3-8ed8-d81fa20e661d" />
-<img width="250" height="306" alt="Screenshot 2026-07-11 173326" src="https://github.com/user-attachments/assets/c6327cac-07c5-4cb4-ad12-98b219e81c1c" />
+<img width="320" height="420" alt="Screenshot 2026-07-11 173326" src="https://github.com/user-attachments/assets/c6327cac-07c5-4cb4-ad12-98b219e81c1c" />
 
 ## Features
 
