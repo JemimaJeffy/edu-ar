@@ -49,8 +49,4 @@ Scan mode (Groq/Qwen2.5-VL) and premium narration (ElevenLabs) call third-party 
 
 ## Motivation
 
-EduAR was built to make abstract educational diagrams tangible — instead of memorizing a flat textbook diagram of a heart or a cell, students can place a 3D model in their own space, rotate it, tap on labeled parts, and quiz themselves, all from a phone browser.
-
-## 📄 License
-
-Add your preferred license here (e.g. MIT).
+EduAR was built to make abstract educational diagrams tangible — instead of memorizing a flat textbook diagram of a heart or a cell, students can place a 3D model in their own space, rotate it, tap on labeled parts, and quiz themselves, all from a phone browser.here (e.g. MIT).
